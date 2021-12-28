@@ -65,6 +65,38 @@
 - [Создание репозитория](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 - [Добавление ключа доступа к аккаунту (SSH keys)](https://only-to-top.ru/blog/tools/2019-12-08-git-ssh-windows.html)
 - [Плейлист который ответит на 98% вопросов](https://youtu.be/DK2PsTcSFFM)
+### 7) Приложение с docker 
+ - [docker-reactjs](https://github.com/thejungwon/docker-reactjs)
 
 
 # Jenkins
+
+### 1) Ведение в Jenkins
+- [Что такое Jenkins](https://dataenginer.ru/?p=1647)
+- [И еще раз что такое Jenkins](https://ru.education-wiki.com/9039545-what-is-jenkins)
+- [Видео курсы на русском языке ](https://www.youtube.com/playlist?list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a)
+### 2)  Установка Jenkins
+ - [Windows](https://ru.education-wiki.com/3736628-how-to-install-jenkins)
+ - [Видео установки на Windows](https://www.youtube.com/watch?v=1_Zs0gQq1Yc)
+ - [Linux](https://www.jenkins.io/doc/book/installing/linux/)
+ - [Видео установки на Linux](https://www.youtube.com/watch?v=Hm6yi7wnp6Y&list=PLg5SS_4L6LYvQbMrSuOjTL1HOiDhUE_5a&index=2)
+ - [MacOS](https://coralogix.com/blog/how-to-install-and-configure-jenkins-on-the-mac-os/)
+ - [Видео установки на MacOS](https://www.youtube.com/watch?v=GPeSfPjm6L4)
+
+ ### 3)Pipeline
+ - [Что такое Pipeline и первый запуск](https://itisgood.ru/2019/11/11/kak-sozdat-svoj-pervyj-pajplajn-ci-cd-v-jenkins/)
+ - [Связь Jenkins и GitHub](https://youtu.be/i9KLMQmvZmY)
+ - [Генерация ключей для связи с GitHub](https://medium.com/appgambit/ssh-authentication-between-github-and-jenkins-d873dd138db0)
+
+ ### 4) Docker-copmose
+ - [Что такое Docker Compose](https://dker.ru/docs/docker-compose/overview-of-docker-compose/)
+ - [Docker Compose и React App](https://rsbh.dev/blog/dockerize-react-app)
+ - [Репозиторий](https://github.com/rsbh/react-docker)
+
+
+### 5) Docker-compose for front, back, db
+ - [Full-stack app](https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/)
+ - [Repository](https://github.com/dimanchezzz/node_with_db)
+
+
+
