@@ -2,7 +2,7 @@
 
 ### 1) Ведение в докер. Что такое докер и из чего состоит.
 - [Главная страница](https://www.docker.com/)
-- [Что такои и с чем едят](https://eternalhost.net/blog/razrabotka/chto-takoe-docker)
+- [Что такое и с чем едят](https://eternalhost.net/blog/razrabotka/chto-takoe-docker)
 - [Описание компонентов Docker](https://selectel.ru/blog/what-is-docker/)
 - [Dockerfile](https://habr.com/ru/company/ruvds/blog/439980/)
 ### 2) Установка Docker 
@@ -65,7 +65,7 @@
 - [Создание репозитория](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 - [Добавление ключа доступа к аккаунту (SSH keys)](https://only-to-top.ru/blog/tools/2019-12-08-git-ssh-windows.html)
 - [Плейлист который ответит на 98% вопросов](https://youtu.be/DK2PsTcSFFM)
-### 7) Приложение с docker 
+### 7) React app с docker 
  - [docker-reactjs](https://github.com/thejungwon/docker-reactjs)
 
 
@@ -83,7 +83,7 @@
  - [MacOS](https://coralogix.com/blog/how-to-install-and-configure-jenkins-on-the-mac-os/)
  - [Видео установки на MacOS](https://www.youtube.com/watch?v=GPeSfPjm6L4)
 
- ### 3)Pipeline
+ ### 3) Pipeline
  - [Что такое Pipeline и первый запуск](https://itisgood.ru/2019/11/11/kak-sozdat-svoj-pervyj-pajplajn-ci-cd-v-jenkins/)
  - [Связь Jenkins и GitHub](https://youtu.be/i9KLMQmvZmY)
  - [Генерация ключей для связи с GitHub](https://medium.com/appgambit/ssh-authentication-between-github-and-jenkins-d873dd138db0)
